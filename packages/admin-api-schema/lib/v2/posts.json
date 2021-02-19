@@ -16,6 +16,11 @@
           "type": "string",
           "maxLength": 191
         },
+        "external_url": {
+          "type": ["string", "null"],
+          "format": "uri-reference",
+          "maxLength": 2000
+        },
         "mobiledoc": {
           "type": ["string", "null"],
           "format": "json-string",
