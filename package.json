@@ -1,6 +1,6 @@
 {
   "private": true,
-  "repository": "https://github.com/TryGhost/SDK",
+  "repository": "https://github.com/iGamesInc/Ghost-SDK",
   "author": "Ghost Foundation",
   "license": "MIT",
   "workspaces": [
